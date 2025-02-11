@@ -1,5 +1,5 @@
 import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
-import { vapeBig1, vapeBig2, vapeBig3, customer1, customer2, vape4, vape5, vape6, vape7, vape8 } from "../assets/images";
+import { vapeBig1, vapeBig2, vapeBig3, customer1, customer2, vape4, vape5, vape6, vape7, vape8, thumbnail1, thumbnail2, thumbnail3 } from "../assets/images";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
@@ -10,12 +10,15 @@ export const navLinks = [
 
 export const shoes = [
     {
+        thumbnail: thumbnail1,
         vapeBig: vapeBig1,
     },
     {
+        thumbnail: thumbnail2,
         vapeBig: vapeBig2,
     },
     {
+        thumbnail: thumbnail3,
         vapeBig: vapeBig3,
     },
 ];

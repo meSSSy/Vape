@@ -11,6 +11,10 @@ import vape6 from './vape6.jpeg';
 import vape7 from './vape7.jpeg';
 import vape8 from './vape8.jpeg';
 
+import thumbnail1 from './thumbnail1.jpg';
+import thumbnail2 from './thumbnail2.jpg';
+import thumbnail3 from './thumbnail3.jpg';
+
 export {
     vapeBig1,
     vapeBig2,
@@ -21,5 +25,8 @@ export {
     vape5,
     vape6,
     vape7,
-    vape8
+    vape8,
+    thumbnail1,
+    thumbnail2,
+    thumbnail3
 }
