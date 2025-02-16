@@ -8,7 +8,7 @@ export const navLinks = [
     { href: "#contact-us", label: "Contact Us" },
 ];
 
-export const shoes = [
+export const vapes = [
     {
         thumbnail: thumbnail1,
         vapeBig: vapeBig1,
