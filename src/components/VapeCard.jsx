@@ -7,7 +7,7 @@ const VapeCard = ({ imgURL, changeVapeBigImage, vapeBigImage }) => {
   
     return (
       <div 
-        className={`border-2 rounded-xl ${vapeBigImage === imgURL.vapeBig ? 'border-blue-600' : 'border-transparent'} cursor-pointer max-sm:flex-1`}
+        className={`border-2 rounded-xl mb-20 ${vapeBigImage === imgURL.vapeBig ? 'border-blue-600' : 'border-transparent'} cursor-pointer max-sm:flex-1`}
         onClick={handleClick}
       >
         <div className="p-2">
